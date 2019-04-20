@@ -1,0 +1,11 @@
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/bin/Debug/netcoreapp2.2/src.deps.json
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.json
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.dev.json
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/bin/Debug/netcoreapp2.2/src.dll
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/bin/Debug/netcoreapp2.2/src.pdb
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/obj/Debug/netcoreapp2.2/src.csprojAssemblyReference.cache
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/obj/Debug/netcoreapp2.2/src.csproj.CoreCompileInputs.cache
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/obj/Debug/netcoreapp2.2/src.AssemblyInfoInputs.cache
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/obj/Debug/netcoreapp2.2/src.AssemblyInfo.cs
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/obj/Debug/netcoreapp2.2/src.dll
+/home/joaomarques/Área de Trabalho/projects/LearnDev/src/obj/Debug/netcoreapp2.2/src.pdb
